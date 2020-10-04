@@ -35,7 +35,7 @@ This repo is the open-source repo for the CounselBot web-app.
 - Enter The directory: 
 
         cd Hacknight-CounselBot
-- Pthon setup:
+- Run the Python setup:
         
         python setup.py
 - Run the App:
