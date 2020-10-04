@@ -5,7 +5,6 @@ import counselor
 from tensorflow.keras.models import load_model
 import joblib
 from pathlib import Path
-import matplotlib.pyplot as plt
 from PIL import Image
 import streamlit as st
 import imagify
@@ -349,7 +348,7 @@ def main():
 
                                                             st.header('Trends over the years')
                                                             # We'll be using a csv file for that
-                                                            fig, ax = plt.subplots()
+                                                           
 
                                                             def Convert(string):
                                                                 li = list(string.split(","))
@@ -686,7 +685,7 @@ def main():
 
                                                                             st.header('Trends over the years')
                                                                             # We'll be using a csv file for that
-                                                                            fig, ax = plt.subplots()
+                                                                            
 
                                                                             def Convert(string):
                                                                                 li = list(string.split(","))
@@ -951,7 +950,7 @@ def main():
 
                                                             st.header('Trends over the years')
                                                             # We'll be using a csv file for that
-                                                            fig, ax = plt.subplots()
+                                                        
 
                                                             def Convert(string):
                                                                 li = list(string.split(","))
