@@ -6,8 +6,8 @@ It is a very user-friendly platform which will surely be very easy to use and a 
 - Take an in-depth quiz to find more bout yourself and career suitable for you
 - Get a very detailed report which will provide you info about the top 5 professions you are inclined to.
 
-CounselBot runs on Windows, Linux, Mac and even Android. It is a web application that can easily be moulded according to our needs. It has this flexibility as it uses Streamlit as its platform.
-This repo is the open-source repo for the CounselBot web-app. 
+CounselBot Web-app runs on Windows, Linux, Mac and even Android. It is a web application that can easily be moulded according to our needs. It has this flexibility as it uses Streamlit as its platform.
+This is the open-source repository for the CounselBot web-app. 
 
 ![](img/21.png)
 
