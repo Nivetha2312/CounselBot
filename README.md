@@ -44,3 +44,5 @@ This repo is the open-source repo for the CounselBot web-app.
 - Stop the app from terminal:
 
         Ctrl+C
+
+That's it!
